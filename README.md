@@ -15,9 +15,9 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 
 ```json
 {
-  "version": "1.0.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v1.0.0/Atenea_Setup_v1.0.0.msi",
-  "descripcion": "La nueva versión 1.0.0 trae..."
+  "version": "3.0.0",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.0.0/Atenea_Setup_v3.0.0.msi",
+  "descripcion": "La nueva versión 3.0.0 trae..."
 }
 ```
 -   `version`: versión más reciente del software (formato semántico).
@@ -28,14 +28,14 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 
 Este archivo está disponible públicamente gracias a **GitHub Pages**:
 
-[`https://grupoosg-it.github.io/Atenea-Setup/version.json`](https://grupoosg-it.github.io/Atenea-Setup/version.json)
+[`https://Operber-Sitalu-Group.github.io/Atenea-Setup/version.json`](https://Operber-Sitalu-Group.github.io/Atenea-Setup/version.json)
 
 La aplicación WPF accede a esta URL para consultar automáticamente si hay nuevas versiones disponibles.
 
 
 ## ✅ Repositorio de instalación
 
-Puedes encontrar los instaladores en la sección de [Releases](https://github.com/grupoosg-it/Atenea-Setup/releases).
+Puedes encontrar los instaladores en la sección de [Releases](https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases).
 
 
 ## 🔒 Seguridad
