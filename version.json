@@ -1,5 +1,5 @@
 {
-  "version": "3.13.1",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.13.1/Atenea_Setup_v3.13.1.msi",
-  "descripcion": "Trabajadores:\n- Se han desactivado los usuarios de trabajadores que ya no están en OSG.\n- Se han ocultado de la mayoria de listas a los trabajadores que ya no están en OSG (excepto filtros, registros...).\n\nPlanning de Caldereria:\n- Se ha implementado el sistema de trabajadores de la planning de SAT y la planning eléctrica.\n\nKPIs:\n- Arreglados unos números que descuadraban de la cartera de pedidos.\n\nWorkflow:\n- Añadido todo un sistema de filtros basado en el de incidencias.\n- Añadido el diario de a bordo para poder añadir mensajes para otros apartados del proyecto.\n\nIncidencias:\n- Añadidos Med y Adri en el selector de ingenieros para poder enviarles incidencias."
+  "version": "3.13.2",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.13.2/Atenea_Setup_v3.13.2.msi",
+  "descripcion": "Incidencias:\n- Se ha añadido un campo del cliente del proyecto.\n- Se ha añadido un filtro de cliente.\n- Se han añadido permisos para modificar incidencias a los ingenieros eléctricos.\n- Cada mañana se enviará un mail a compras y almacén sobre las incidencias provocadas en los últimos 30 dias por los proveedores a los que se hizo un pedido el dia anterior.\n\nWorkflow:\n- Se ha arreglado un error que no permitia modificar en el diario de a bordo.\n- Al asignar a un ingeniero, se le enviará un mail a parte sobre las últimas incidencias A CARGO DE OSG de ese cliente.\n- Se ha eliminado en las flash la posibilidad de tirar un proyecto atrás a ingenieria o compras."
 }
