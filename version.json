@@ -1,5 +1,5 @@
 {
-  "version": "3.13.3",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.13.3/Atenea_Setup_v3.13.3.msi",
-  "descripcion": "Workflow:\n- Se ha cambiado el campo del mensaje cuando lo visualiza un usuario que no puede editarlo, para que si pueda scrollear.\n- Se ha añadido a Cristina y Yovana en los mails de avance de material.\n\nPlanning de SAT:\n- Se ha añadido a la planning un proyecto 'VACACIONES'.\n\nPlanning de Caldereria:\n- Se ha añadido a la planning un proyecto 'VACACIONES'.\n\nPlanning Eléctrica:\n- Se ha habilitado el campo de observaciones para todos los usuarios del departamento.\n\nReserva de Salas:\n- Se ha añadido un recordatorio 30min antes de la reserva por mail.\n\nHoras:\n- Se ha eliminado el salto de página al imprimir los registros de un único dia.\n\nKPIs:\n- Se ha añadido un caso al recuperar las fechas de entrega de un proyecto de la planning para la cartera de pedidos.\n\nLímite semanal:\n- Se ha añadido un mail automático que se envia si se supera el límite semanal de pedidos."
+  "version": "3.14.0",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.0/Atenea_Setup_v3.14.0.msi",
+  "descripcion": "Planificaciones:\n- Ahora el total se calcula dividiendo las horas totales del proyecto entre las semanas.\n- Se han añadido las horas asignadas del proyecto a la pantalla principal.\n- Se han comprimido las listas de proyectos asignados.\n- Se ha añadido un buscador de proyectos.\n- Se ha añadido un campo a los trabajadores para especificar las horas semanales.\n\nPlanning de SAT:\n- Se ha modificado completamente el módulo para las nuevas necesidades.\n\nWorkflow:\n- Se ha añadido un nuevo apartado para el documento de montaje."
 }
