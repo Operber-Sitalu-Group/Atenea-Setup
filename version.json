@@ -1,5 +1,5 @@
 {
-  "version": "3.14.0",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.0/Atenea_Setup_v3.14.0.msi",
-  "descripcion": "Planificaciones:\n- Ahora el total se calcula dividiendo las horas totales del proyecto entre las semanas.\n- Se han añadido las horas asignadas del proyecto a la pantalla principal.\n- Se han comprimido las listas de proyectos asignados.\n- Se ha añadido un buscador de proyectos.\n- Se ha añadido un campo a los trabajadores para especificar las horas semanales.\n\nPlanning de SAT:\n- Se ha modificado completamente el módulo para las nuevas necesidades.\n\nWorkflow:\n- Se ha añadido un nuevo apartado para el documento de montaje."
+  "version": "3.14.1",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.1/Atenea_Setup_v3.14.1.msi",
+  "descripcion": "\nWorkflow:\n- Añadido el filtro de 'Requiere SAT'.\n- Se han eliminado los trabajadores inactivos del diario de a bordo.\n- Añadido Xexu a la revisión de proyectos en el apartado de OTM.\n\nPlanning de Caldereria:\n- Se ha cambiado el aspecto visual para que sea igual que las otras planificaciones.\n\nPlannings:\n- Se han añadido botones para cambiar entre semana al estar en la vista de asignaciones a trabajadores."
 }
