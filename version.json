@@ -1,5 +1,5 @@
 {
-  "version": "3.14.2",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.2/Atenea_Setup_v3.14.2.msi",
-  "descripcion": "Plannings:\n- Se ha añadido un botón desplegable para cada trabajador. Al desplegar, se amplia la lista hasta que se muestren todas sus asignaciones.\n- Si un trabajador que está por defecto en esa planificación no tiene nada asignado y tiene un máximo de 0h semanales, se oculta como los otros trabajadores.\n- Añadido un botón para volver a la semana actual.\n- Ahora, al introducir un código de proyecto en el buscador y presionar intro, te llevará a la pestaña de asignaciones de ese proyecto.\n\nWorkflow:\n- Arreglado un problema que no generaba el documento de montaje si habia mucho texto en los campos.\n- Se ha añadido la fecha de última modificación de los mensajes del diario de a bordo.\n- Se han añadido nuevos campos relacionados a las pruebas de producción."
+  "version": "3.14.3",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.3/Atenea_Setup_v3.14.3.msi",
+  "descripcion": "Planning de Caldereria:\n- Cambiado el sistema para calcular el % de material recibido. Ahora utilitza únicamente la serie 'CA'.\n\nWorkflow:\n- Añadido un sistema que simplifica la copia de datos de los proyectos Ídem.\n- Arreglado un error que al guardar un proyecto, enviaba un mail a SAT indicando que se habia modificado el budget, pero era el mismo sin decimales.\n\nSolicitud de Transporte:\n- Optimizada la carga de los códigos postales."
 }
