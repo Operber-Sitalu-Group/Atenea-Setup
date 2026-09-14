@@ -1,5 +1,5 @@
 {
-  "version": "3.14.4",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.4/Atenea_Setup_v3.14.4.msi",
-  "descripcion": "Planning de Caldereria:\n- Cambiado el sistema para calcular el % de material recibido. Ahora utilitza únicamente la serie 'CA'.\n\nWorkflow:\n- Añadido un sistema que simplifica la copia de datos de los proyectos Ídem.\n- Arreglado un error que al guardar un proyecto, enviaba un mail a SAT indicando que se habia modificado el budget, pero era el mismo sin decimales.\n\nSolicitud de Transporte:\n- Optimizada la carga de los códigos postales.\n\nARREGLADO UN ERROR CRÍTICO CON EL DIARIO DE A BORDO QUE ENVIABA MENSAJES ANTIGUOS."
+  "version": "3.14.5",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.5/Atenea_Setup_v3.14.5.msi",
+  "descripcion": "Workflow:\n- Arreglada la hora de última edición (antes lo mostraba en UTC).\n\nHoras:\n- Añadida la opción de marcar las horas como montaje y nocturnidad para administración.\n- Añadido un cálculo que resta 15min de horas normales al pasarse 5min del descanso.\n\nTambién se han modificado unos avisos para compras por mail que se calculaban cada hora para que se calculen cada día."
 }
