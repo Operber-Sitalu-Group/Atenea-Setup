@@ -1,5 +1,5 @@
 {
-  "version": "3.14.5",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.14.5/Atenea_Setup_v3.14.5.msi",
-  "descripcion": "Workflow:\n- Arreglada la hora de última edición (antes lo mostraba en UTC).\n\nHoras:\n- Añadida la opción de marcar las horas como montaje y nocturnidad para administración.\n- Añadido un cálculo que resta 15min de horas normales al pasarse 5min del descanso.\n\nTambién se han modificado unos avisos para compras por mail que se calculaban cada hora para que se calculen cada día."
+  "version": "3.15.0",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.15.0/Atenea_Setup_v3.15.0.msi",
+  "descripcion": "Planning de SAT:\n- Se ha añadido una plantilla en blanco para imprimir cuando un proyecto planificado no está entrado en el workflow.\n\nWorkflow:\n- Se ha añadido un campo para introducir el budget de SAT.\n\nSE HAN TRASPASADO VARIOS MÓDULOS A ATENEA WEB."
 }
