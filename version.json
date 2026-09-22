@@ -1,5 +1,5 @@
 {
-  "version": "3.15.0",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.15.0/Atenea_Setup_v3.15.0.msi",
-  "descripcion": "Planning de SAT:\n- Se ha añadido una plantilla en blanco para imprimir cuando un proyecto planificado no está entrado en el workflow.\n\nWorkflow:\n- Se ha añadido un campo para introducir el budget de SAT.\n\nSE HAN TRASPASADO VARIOS MÓDULOS A ATENEA WEB."
+  "version": "3.15.1",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.15.1/Atenea_Setup_v3.15.1.msi",
+  "descripcion": "Workflow:\n- Arreglado un error que a pesar de no dar error, no estaba guardando la información que se entraba de los proyectos en el documento de montaje."
 }
