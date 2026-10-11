@@ -1,5 +1,5 @@
 {
-  "version": "3.15.1",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.15.1/Atenea_Setup_v3.15.1.msi",
-  "descripcion": "Workflow:\n- Arreglado un error que a pesar de no dar error, no estaba guardando la información que se entraba de los proyectos en el documento de montaje."
+  "version": "3.16.0",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.16.0/Atenea_Setup_v3.16.0.msi",
+  "descripcion": "Workflow & Incidencias se han pasado a web."
 }
