@@ -1,5 +1,5 @@
 {
-  "version": "3.16.0",
-  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.16.0/Atenea_Setup_v3.16.0.msi",
-  "descripcion": "Workflow & Incidencias se han pasado a web."
+  "version": "3.18.0",
+  "url": "https://github.com/Operber-Sitalu-Group/Atenea-Setup/releases/download/v3.18.0/Atenea_Setup_v3.18.0.msi",
+  "descripcion": "Esta es la última actualización de Atenea v3.\n\nLa aplicación de escritorio ha llegado a su fin. Esta actualización sirve únicamente para cerrarla: una vez instalada, Atenea ya no se podrá utilizar y podrás desinstalarla directamente desde la propia aplicación.\n\nA partir de ahora, todo estará en la versión web: https://atenea.grupoosg.com/\n\nGracias a todos por haber utilizado Atenea durante todo este tiempo y por vuestras sugerencias para mejorarla.\n\nPara cualquier duda o problema, contacta con Andreu Niso (it@grupoosg.com) o escribe a atenea@grupoosg.com."
 }
